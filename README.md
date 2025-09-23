@@ -30,7 +30,7 @@ Profile
 - [📊 Smart Hydroponics System with Dashboard (Penn State 2025 Project)](https://github.com/Musti-Omar-97993/International-Project-Web-Template)  
   *Built real-time monitoring & automation with Node-RED dashboard + educational website for primary schools.*  
 
-- [💻 Role-Based POS & Management System]()  
+- [💻 Role-Based POS & Management System](https://github.com/Musti-Omar-97993/RamKat_Project)  
   *C# Windows Forms app for a rental business: stock management, finance tracking, and user authentication.*  
 
 *(More projects available on my repositories.)*  
