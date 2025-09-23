@@ -27,7 +27,7 @@ Profile
 - [🌱 Smart Hydroponics Sensor Integration (BusIT Week 2024)]  
   *Designed and calibrated IoT sensors for water level & pH monitoring in a hydroponics system, enabling automation.*  
 
-- [📊 Smart Hydroponics System with Dashboard (Penn State 2025 Project)]()  
+- [📊 Smart Hydroponics System with Dashboard (Penn State 2025 Project)](https://github.com/Musti-Omar-97993/International-Project-Web-Template)  
   *Built real-time monitoring & automation with Node-RED dashboard + educational website for primary schools.*  
 
 - [💻 Role-Based POS & Management System]()  
