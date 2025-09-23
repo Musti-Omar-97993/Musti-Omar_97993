@@ -48,7 +48,7 @@ Profile
 
 ## 📄 CV  
 
-📥 [Download My CV (PDF)]()  
+📥 [Download My CV (PDF)](https://github.com/Musti-Omar-97993/CV)  
 
 ---
 
