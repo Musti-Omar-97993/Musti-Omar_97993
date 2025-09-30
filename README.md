@@ -1,63 +1,19 @@
-# Musti-Omar_97993
-Profile
+# 💫 About Me:
+Musti-Omar_97993<br>Profile<br><br>👋 Hi, I’m Mustapha Ismael Omar  <br><br>🎓 **BComp Data Science Student (3rd Year, Belgium Campus ITversity)**  <br>🌱 Passionate about **IoT, Data Science, and Sustainable Tech**  <br>💼 Seeking internship opportunities in **data science, business intelligence, software development, IoT integration, or data-driven solutions**  <br>📍 Based in Pretoria, South Africa  <br><br>==========================================================================================<br><br>🚀 Skills  <br><br>**Programming & Development:** C#, HTML, CSS, JavaScript, SQL · Familiar: Python, Arduino (IoT), Node-RED, Talend  <br>**Tools & Frameworks:** Visual Studio, VS Code, Git/GitHub, SQL Server, Firebase (basic), Oracle (beginner), Access  <br>**IoT & Circuit Design:** Arduino, Tinkercad, Cirkit Designer  <br>**Data Analysis & Visualization:** Excel, Power BI, Statistics  <br>**Microsoft Tools & Platforms:** Office Suite (Word, Excel, PowerPoint, Outlook) · Teams · SharePoint · SQL Server · Visual Studio  <br>**Other:** UI/UX principles, Agile practices  <br>**Soft Skills:** Problem-solving · Teamwork · Adaptability · Communication · Leadership<br><br>==========================================================================================<br><br>📂 Projects  <br><br>- [🌱 Smart Hydroponics Sensor Integration (BusIT Week 2024)]  <br>  *Designed and calibrated IoT sensors for water level & pH monitoring in a hydroponics system, enabling automation.*  <br><br>- [📊 Smart Hydroponics System with Dashboard (Penn State 2025 Project)](https://github.com/Musti-Omar-97993/International-Project-Web-Template)  <br>  *Built real-time monitoring & automation with Node-RED dashboard + educational website for primary schools.*  <br><br>- [💻 Role-Based POS & Management System](https://github.com/Musti-Omar-97993/RamKat_Project)  <br>  *C# Windows Forms app for a rental business: stock management, finance tracking, and user authentication.*     <br>*(More projects available on my repositories.)*  <br><br>==========================================================================================<br><br>🎓 Academic Highlights  <br><br>- Developed CRUD applications in **C# + SQL** for database management.  <br>- Built responsive websites using **HTML, CSS, JavaScript**.  <br>- Applied **data visualization & analysis** tools to interpret datasets and present insights.  <br>- Collaborated internationally on **IoT & environmental sustainability projects**.  <br><br>==========================================================================================<br><br>📄 CV  <br><br>📥 [Download My CV (PDF)](https://github.com/Musti-Omar-97993/CV)  <br><br>========================================================================================== 
 
-👋 Hi, I’m Mustapha Ismael Omar  
 
-🎓 **BComp Data Science Student (3rd Year, Belgium Campus ITversity)**  
-🌱 Passionate about **IoT, Data Science, and Sustainable Tech**  
-💼 Seeking internship opportunities in **data science, business intelligence, software development, IoT integration, or data-driven solutions**  
-📍 Based in Pretoria, South Africa  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustapha-ismael-omar-2a2b11318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustaphaismaelomar786@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=plastic&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Musti-Omar-97993&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 Skills  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Musti-Omar-97993&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-**Programming & Development:** C#, HTML, CSS, JavaScript, SQL · Familiar: Python, Arduino (IoT), Node-RED, Talend  
-**Tools & Frameworks:** Visual Studio, VS Code, Git/GitHub, SQL Server, Firebase (basic), Oracle (beginner), Access  
-**IoT & Circuit Design:** Arduino, Tinkercad, Cirkit Designer  
-**Data Analysis & Visualization:** Excel, Power BI, Statistics  
-**Microsoft Tools & Platforms:** Office Suite (Word, Excel, PowerPoint, Outlook) · Teams · SharePoint · SQL Server · Visual Studio  
-**Other:** UI/UX principles, Agile practices  
-**Soft Skills:** Problem-solving · Teamwork · Adaptability · Communication · Leadership
-
----
-
-## 📂 Projects  
-
-- [🌱 Smart Hydroponics Sensor Integration (BusIT Week 2024)]  
-  *Designed and calibrated IoT sensors for water level & pH monitoring in a hydroponics system, enabling automation.*  
-
-- [📊 Smart Hydroponics System with Dashboard (Penn State 2025 Project)](https://github.com/Musti-Omar-97993/International-Project-Web-Template)  
-  *Built real-time monitoring & automation with Node-RED dashboard + educational website for primary schools.*  
-
-- [💻 Role-Based POS & Management System](https://github.com/Musti-Omar-97993/RamKat_Project)  
-  *C# Windows Forms app for a rental business: stock management, finance tracking, and user authentication.*  
-
-*(More projects available on my repositories.)*  
-
----
-
-## 🎓 Academic Highlights  
-
-- Developed CRUD applications in **C# + SQL** for database management.  
-- Built responsive websites using **HTML, CSS, JavaScript**.  
-- Applied **data visualization & analysis** tools to interpret datasets and present insights.  
-- Collaborated internationally on **IoT & environmental sustainability projects**.  
-
----
-
-## 📄 CV  
-
-📥 [Download My CV (PDF)](https://github.com/Musti-Omar-97993/CV)  
-
----
-
-## 🔗 Connect With Me  
-
-- [LinkedIn](https://www.linkedin.com/in/mustapha-ismael-omar-2a2b11318/)  
-- [GitHub](https://github.com/Musti-Omar-97993)  
-- 📧 mustaphaismaelomar786@gmail.com  
-
----
 
 ✨ *“Passionate about using technology to solve real-world challenges in sustainable agriculture, education, and environmental monitoring.”*
