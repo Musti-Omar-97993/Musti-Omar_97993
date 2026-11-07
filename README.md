@@ -181,22 +181,6 @@ English (Native/Full Professional), Afrikaans (Basic/Elementary)
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Musti-Omar-97993&theme=cobalt&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Musti-Omar-97993&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### 🎯 Hobbies & Interests
 
 🌱 Sustainable Farming & Agriculture Technology  
