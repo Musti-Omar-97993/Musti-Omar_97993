@@ -1,170 +1,213 @@
-💫 About Me:
-👋 Hi, I'm Mustapha Ismael Omar
-Data Engineer & BComp Honours Data Science Candidate
-Pretoria, South Africa
+# 💫 About Me
 
-🚀 Professional Summary
-Data Engineer and BComp Honours Data Science candidate with enterprise experience at Vodacom, Atos, Siemens, and Orange Business Solutions. Experienced in cloud data infrastructure, ETL/ELT pipelines, SQL, IoT systems, machine learning, and full-stack development. Strong practical experience with AWS data services and enterprise technology environments, complemented by international multidisciplinary project experience and technical leadership.
+## 👋 Hi, I'm Mustapha Ismael Omar
 
-🎓 Education
-BComp Honours in Data Science (Integrated Programme)
+**Data Engineer & BComp Honours Data Science Candidate**  
+📍 Pretoria, South Africa
+
+---
+
+### 🚀 Professional Summary
+
+Data Engineer and BComp Honours Data Science candidate with enterprise experience at **Vodacom, Atos, Siemens, and Orange Business Solutions**. Experienced in cloud data infrastructure, ETL/ELT pipelines, SQL, IoT systems, machine learning, and full-stack development. Strong practical experience with AWS data services and enterprise technology environments, complemented by international multidisciplinary project experience and technical leadership.
+
+---
+
+### 🎓 Education
+
+**BComp Honours in Data Science (Integrated Programme)**  
 Belgium Campus ITversity, Pretoria | 2023 – Early 2027
 
-National Senior Certificate (Matric)
+**National Senior Certificate (Matric)**  
 Laudium Secondary School | Class of 2021
 
-💼 Work Experience
-Junior Data Engineer | Vodacom (July 2026 – Present)
+---
 
-Engineered backend data solutions for the high-volume VodaPay enterprise application
+### 💼 Work Experience
 
-Perform data extraction, transformation, and processing activities; develop SQL queries for data requirements
+**Junior Data Engineer** | Vodacom *(July 2026 – Present)*
 
-Developed and maintained robust ETL/ELT pipelines with rigorous data quality and validation checks
+- Engineered backend data solutions for the high-volume VodaPay enterprise application.
+- Perform data extraction, transformation, and processing activities; develop SQL queries for data requirements.
+- Developed and maintained robust ETL/ELT pipelines with rigorous data quality and validation checks.
+- Architected scalable cloud data lakehouse solutions utilizing AWS Glue, S3, Athena, Airflow, and Redshift.
 
-Architected scalable cloud data lakehouse solutions utilizing AWS Glue, S3, Athena, Airflow, and Redshift
+**Junior Engineer (Intern)** | Atos South Africa *(March 2026 – Present)*
 
-Junior Engineer (Intern) | Atos South Africa (March 2026 – Present)
+- Gaining practical experience across network engineering, technical support, and data engineering through enterprise client assignments.
 
-Gaining practical experience across network engineering, technical support, and data engineering through enterprise client assignments
+**Junior Network & Support Engineer** | Siemens *(March 2026 – July 2026)*
 
-Junior Network & Support Engineer | Siemens (March 2026 – July 2026)
+- Executed hardware provisioning, OS imaging, and compliance configurations across enterprise networks.
+- Provided desk-side and remote support for software, network connectivity, authentication, and user access.
+- Troubleshot technical incidents involving hardware, connectivity, and system performance.
+- Assisted with network infrastructure maintenance, hardware installations, and LAN cabling.
 
-Executed hardware provisioning, OS imaging, and compliance configurations across enterprise networks
+**Junior Support Engineer** | Orange Business Solutions *(March 2026 – July 2026)*
 
-Provided desk-side and remote support for software, network connectivity, authentication, and user access
+- Provided first- and second-line support for technical incidents and service requests.
+- Assisted with device imaging, user setup, and technical configuration.
+- Maintained technical documentation and records of infrastructure changes and support activities.
 
-Troubleshot technical incidents involving hardware, connectivity, and system performance
+---
 
-Assisted with network infrastructure maintenance, hardware installations, and LAN cabling
+### 🛠️ Technical Skills
 
-Junior Support Engineer | Orange Business Solutions (March 2026 – July 2026)
+**Cloud & Data Engineering:**  
+AWS (Glue, S3, Athena, Redshift, Managed Airflow), Data Lakehouse Architecture, ETL/ELT Pipelines, SQL Server, MySQL, Oracle, MongoDB, Talend
 
-Provided first- and second-line support for technical incidents and service requests
+**Data Science & Analytics:**  
+Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Power BI, Tableau, Advanced Excel, Statistics
 
-Assisted with device imaging, user setup, and technical configuration
+**Programming Languages:**  
+Python, SQL, C#, JavaScript, HTML5/CSS3, C++, R
 
-Maintained technical documentation and records of infrastructure changes and support activities
+**Development Tools & DevOps:**  
+Git/GitHub, Docker, FastAPI, Firebase, VS Code, Visual Studio, JupyterLab, Google Colab, Node.js, Node-RED, TailwindCSS, WordPress
 
-🛠️ Technical Skills
-Cloud & Data Engineering: AWS (Glue, S3, Athena, Redshift, Managed Airflow), Data Lakehouse Architecture, ETL/ELT Pipelines, SQL Server, MySQL, Oracle, MongoDB, Talend
+**IoT & Networking:**  
+MQTT, Node-RED, Arduino IDE, Cisco Packet Tracer, Network Infrastructure & Troubleshooting, LAN Cabling, AP Installation, Raspberry Pi
 
-Data Science & Analytics: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Power BI, Tableau, Advanced Excel, Statistics
+**Enterprise IT & Security:**  
+Hardware Provisioning, OS Imaging, User Onboarding, PKI/Certificate Management, Microsoft Intune, ServiceNow, MFA Configuration
 
-Programming Languages: Python, SQL, C#, JavaScript, HTML5/CSS3, C++, R
+**Soft Skills:**  
+Cross-Functional Team Leadership, Project Management, Stakeholder Communication, Financial Planning & Budgeting, Public Speaking, Problem Solving, Agile Collaboration
 
-Development Tools & DevOps: Git/GitHub, Docker, FastAPI, Firebase, VS Code, Visual Studio, JupyterLab, Google Colab, Node.js, Node-RED, TailwindCSS, WordPress
+**Languages:**  
+English (Native/Full Professional), Afrikaans (Basic/Elementary)
 
-IoT & Networking: MQTT, Node-RED, Arduino IDE, Cisco Packet Tracer, Network Infrastructure & Troubleshooting, LAN Cabling, AP Installation, Raspberry Pi
+---
 
-Enterprise IT & Security: Hardware Provisioning, OS Imaging, User Onboarding, PKI/Certificate Management, Microsoft Intune, ServiceNow, MFA Configuration
+### 📂 Featured Projects
 
-Soft Skills: Cross-Functional Team Leadership, Project Management, Stakeholder Communication, Financial Planning & Budgeting, Public Speaking, Problem Solving, Agile Collaboration
+**🌍 Global Acting in IT Minor 2025** | *International Academic Exchange*
 
-Languages: English (Native/Full Professional), Afrikaans (Basic/Elementary)
+- Completed study exchange across five international universities: Fontys (Netherlands), University of Lleida (Spain), FH Oberösterreich (Austria), Hasselt University (Belgium), and Belgium Campus (South Africa).
+- Specialized in Immersive Tech, UX Design, IoT, AI, and Data Science.
+- **Project:** Designed and built a device and dashboard to monitor water quality levels for dams in South Africa, plus a navigation application for boaters to navigate around obstacles like hyacinth mats.
+- **My Contribution:** Architected IoT infrastructure (sensors, gateways, MQTT brokers via The Things Network), developed ML classification models, engineered SQL databases, and built interactive front-end dashboards.
 
-📂 Featured Projects
-🌍 Global Acting in IT Minor 2025 | International Academic Exchange
+**🌱 Smart Hydroponics System with Dashboard & Educational Platform** | *Penn State 2025 International Engineering Project*
 
-Completed study exchange across five international universities: Fontys (Netherlands), University of Lleida (Spain), FH Oberösterreich (Austria), Hasselt University (Belgium), and Belgium Campus (South Africa)
+- Developed real-time monitoring via Node-RED dashboard and an educational website.
+- **My Contribution:** Programmed automated sensor control logic for precision water and nutrient distribution; developed interactive full-stack educational platform for primary school learners.
+- [View Project](https://github.com/Musti-Omar-97993/International-Project-Web-Template)
 
-Specialized in Immersive Tech, UX Design, IoT, AI, and Data Science
+**💧 Smart Hydroponics Sensor Integration** | *BusIT Week 2024*
 
-Project: Designed and built a device and dashboard to monitor water quality levels for dams in South Africa, plus a navigation application for boaters to navigate around obstacles like hyacinth mats
+- Automated hydroponics system using sensors to monitor water level and pH.
+- **My Contribution:** Set up and calibrated sensors; built the monitoring dashboard.
 
-My Contribution: Architected IoT infrastructure (sensors, gateways, MQTT brokers via The Things Network), developed ML classification models, engineered SQL databases, and built interactive front-end dashboards
+**💻 Role-Based POS & Management System** | *Independent Project*
 
-🌱 Smart Hydroponics System with Dashboard & Educational Platform | Penn State 2025 International Engineering Project
+- Architected and deployed custom C# Windows Forms POS and management system.
+- Integrated secure user authentication, financial tracking, and SQL-based stock management.
+- [View Project](https://github.com/Musti-Omar-97993/RamKat_Project)
 
-Developed real-time monitoring via Node-RED dashboard and an educational website
+---
 
-My Contribution: Programmed automated sensor control logic for precision water and nutrient distribution; developed interactive full-stack educational platform for primary school learners
+### 🏆 Leadership Experience
 
-View Project
+**SRC Head of Finance** | Belgium Campus ITversity *(2024)*
 
-💧 Smart Hydroponics Sensor Integration | BusIT Week 2024
+- Managed budget planning, financial reporting, and allocation of student funds.
+- Coordinated with student committees for transparent and efficient use of financial resources.
+- Represented the institution at Open Days, conducting campus tours and demonstrating student projects.
 
-Automated hydroponics system using sensors to monitor water level and pH
+**Project Lead** | International Engineering Projects *(2025)*
 
-My Contribution: Set up and calibrated sensors; built the monitoring dashboard
+- Led IoT and Data components of the Global Acting in IT Minor environmental technology project.
+- Coordinated development and integration of sensor systems, IoT infrastructure, databases, and ML components.
+- Served as rotating team lead during Penn State International Engineering Project.
 
-💻 Role-Based POS & Management System | Independent Project
+---
 
-Architected and deployed custom C# Windows Forms POS and management system
+### 🌐 Connect With Me
 
-Integrated secure user authentication, financial tracking, and SQL-based stock management
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-ismael-omar-2a2b11318/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustaphaismaelomar786@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musti-Omar-97993)
+[![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Musti-Omar-97993/CV)
 
-View Project
+---
 
-🏆 Leadership Experience
-SRC Head of Finance | Belgium Campus ITversity (2024)
+### 💻 Tech Stack
 
-Managed budget planning, financial reporting, and allocation of student funds
+**Languages & Frameworks**
 
-Coordinated with student committees for transparent and efficient use of financial resources
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 
-Represented the institution at Open Days, conducting campus tours and demonstrating student projects
+**Cloud & Databases**
 
-Project Lead | International Engineering Projects (2025)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 
-Led IoT and Data components of the Global Acting in IT Minor environmental technology project
+**Data Science & Machine Learning**
 
-Coordinated development and integration of sensor systems, IoT infrastructure, databases, and ML components
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
-Served as rotating team lead during Penn State International Engineering Project
+**Tools, Platforms & Technologies**
 
-🌐 Connect With Me
-https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white
-https://img.shields.io/badge/Download_CV-4285F4?logo=adobeacrobatreader&logoColor=white
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
-💻 Tech Stack
-https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white
-https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white
-https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white
-https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E
-https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54
-https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white
-https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase
-https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white
-https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white
-https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white
-https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white
-https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white
-https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white
-https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white
-https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white
-https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white
-https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white
-https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white
-https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white
-https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white
-https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black
-https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white
-https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black
-https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi
-https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white
-https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white
-https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white
-https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white
-https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white
+---
 
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false
+### 📊 GitHub Stats
 
-https://nirzak-streak-stats.vercel.app/?user=Musti-Omar-97993&theme=cobalt&hide_border=false
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Musti-Omar-97993&theme=cobalt&hide_border=false)
 
-🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=Musti-Omar-97993&theme=monokai&no-frame=false&no-bg=true&margin-w=4
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musti-Omar-97993&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎯 Hobbies & Interests
-Sustainable Farming & Agriculture Technology | Artificial Intelligence & Emerging Technologies | IoT & Smart Systems | Technology & DIY Projects | Vintage Car Restoration | Soccer | Hiking & Outdoor Activities | Exploring New Places & Cultures
+---
 
-✨ "Passionate about using technology to solve real-world challenges in sustainable agriculture, education, and environmental monitoring."
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Musti-Omar-97993&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### 🎯 Hobbies & Interests
+
+🌱 Sustainable Farming & Agriculture Technology  
+🤖 Artificial Intelligence & Emerging Technologies  
+📡 IoT & Smart Systems  
+🔧 Technology & DIY Projects  
+🚗 Vintage Car Restoration  
+⚽ Soccer  
+🥾 Hiking & Outdoor Activities  
+🌍 Exploring New Places & Cultures
+
+---
+
+✨ *"Passionate about using technology to solve real-world challenges in sustainable agriculture, education, and environmental monitoring."*
